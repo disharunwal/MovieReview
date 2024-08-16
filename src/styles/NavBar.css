@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #333; /* Dark background for navbar */
+  padding: 10px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  font-family: 'Verdana', sans-serif; /* Custom font for navbar links */
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+@media (max-width: 768px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .navbar a {
+    margin: 5px 0;
+  }
+}

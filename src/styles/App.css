@@ -1,0 +1,41 @@
+/* src/styles/App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+    background-color: #f0f0f0; /* Light gray background */
+}
+.app-container {
+  padding: 20px;
+}
+.satisfy-regular {
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.navbar {
+  
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+}
+
+.main-content {
+  margin-top: 60px; /* Adjust based on navbar height */
+}
+
+.movie-list, .movie-detail, .review-form {
+  margin: 20px;
+}
+/* Add this to your existing CSS files */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.movie-detail, .movie-list {
+  animation: fadeIn 1s ease-in;
+}
+

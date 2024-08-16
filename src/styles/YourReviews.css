@@ -1,0 +1,54 @@
+/* src/styles/YourReviews.css */
+.your-reviews {
+    font-family: 'Roboto', sans-serif;
+    color: #444;
+    padding: 20px;
+  }
+  
+  .your-reviews h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .review-item {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .review-item p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .review-item button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    margin-right: 10px; /* Add space between the buttons */
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .review-item button:last-child {
+    margin-right: 0; /* Remove right margin from the last button */
+  }
+  
+  .review-item button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+  }
+  
+  .review-item a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .review-item a:hover {
+    text-decoration: underline;
+  }
+  

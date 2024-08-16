@@ -1,0 +1,36 @@
+.review-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.review-form textarea {
+  width: 100%;
+  height: 100px;
+}
+
+.review-form input {
+  width: 100%;
+}
+
+.review-form .error {
+  color: red;
+  font-size: 0.9em;
+}
+
+.review-form .delete-button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.review-form .delete-button:hover {
+  background-color: darkred;
+}
+
+.thank-you-message {
+  color: green;
+  font-size: 1.1em;
+  margin-top: 10px;
+}
