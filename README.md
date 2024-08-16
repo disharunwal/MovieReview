@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# MovieReview
+This is just website showcasing the functionality rather than more styling.How to add review,update and delete reviews.This is based on API OMDB fopen source free movie database.Later on i will update with its styling.But it is responsive 
+>>>>>>> db20ac1e211697d7d93ace9ddb8672b75bf62e1a
