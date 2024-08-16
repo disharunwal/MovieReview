@@ -19,21 +19,12 @@ You may also see any lint errors in the console.
 # MovieReview
 This is just website showcasing the functionality rather than more styling.How to add review,update and delete reviews.This is based on API OMDB fopen source free movie database.Later on i will update with its styling.But it is responsive 
 >>>>>>> db20ac1e211697d7d93ace9ddb8672b75bf62e1a
+# Approches
+Basically CRUD operation is performed using open source free Api database User can Add reviews,delete and Edit review along with rating.
+So MovieList,MoviDetails,Navbar and ReviewForm components are created and two Pages Home and Movie pages are created.
+Routes are mainted using react router-dom
+The functionality is implemented not used css for sytling.Later i will update Styling.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
 
