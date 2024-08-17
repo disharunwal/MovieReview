@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+This repository contains source code and Funtionality of how review added edited and deleted.So in this project styling  part is not focused much but it is responsive.Techlogogy used is React.
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -13,8 +10,16 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## screenshots
+![form](https://github.com/user-attachments/assets/580c4699-4146-4591-bc14-d75969a0f14b)
+![movie](https://github.com/user-attachments/assets/5a44f9f4-e094-421b-ae4f-a3544387fab6)
+
+
+https://github.com/user-attachments/assets/3933cff8-f911-4cec-82d8-4b7d0c8154b9
+
+
+
+![review](https://github.com/user-attachments/assets/f0374d45-ef57-4aa8-bac8-143c1e5427dc)
 
 # MovieReview
 This is just website showcasing the functionality rather than more styling.How to add review,update and delete reviews.This is based on API OMDB fopen source free movie database.Later on i will update with its styling.But it is responsive 
