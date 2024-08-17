@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 cd movie-review-app
 2.Open Terminal Run command :npm start
 
-## screenshots
+## Screenshots
 ![form](https://github.com/user-attachments/assets/580c4699-4146-4591-bc14-d75969a0f14b)
 ![movie](https://github.com/user-attachments/assets/5a44f9f4-e094-421b-ae4f-a3544387fab6)
 
@@ -33,9 +33,5 @@ So MovieList,MoviDetails,Navbar and ReviewForm components are created and two Pa
 Routes are mainted using react router-dom
 The functionality is implemented not used css for sytling.Later i will update Styling.
 
-
-
-
-=======
 # MovieReview
-You can 
+User can give rating between 1 to 5,and review the movie after submitting Thank you message is displayed and U can see your review on screen 
