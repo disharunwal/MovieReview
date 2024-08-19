@@ -1,20 +1,13 @@
-![movie](https://github.com/user-attachments/assets/78b145f5-5db5-465e-beef-6aa761f804dd)This repository contains source code and Funtionality of how review added edited and deleted.So in this project styling  part is not focused much but it is responsive.Techlogogy used is React.
+## Project: Movie Review App
+This repository contains source code and Funtionality of how review added edited and deleted.So in this project styling  part is not focused much but it is responsive.Techlogogy used is React.
 # Getting Started with Create React App
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 1.Clone the repo git clone https://disharunwal.github.io/MovieReview/
 cd movie-review-app
 2.Open Terminal Run command :npm start
+
 ## This is the demo
-
-
 
 https://github.com/user-attachments/assets/14f236d8-00d2-49b8-9c1d-d2b7608407ce
 
@@ -23,7 +16,7 @@ https://github.com/user-attachments/assets/14f236d8-00d2-49b8-9c1d-d2b7608407ce
 
 https://github.com/user-attachments/assets/018564bd-3bb9-479a-850a-062ca418c04c
 ![form](https://github.com/user-attachments/assets/3888d154-bc2e-465d-9546-79592d3fdd9d)
-
+![movie](https://github.com/user-attachments/assets/78b145f5-5db5-465e-beef-6aa761f804dd)
 ![movie]![review](https://github.com/user-attachments/assets/d471fca5-6c8a-49cb-b1c8-bcfc59852abe)
 (https://github.com/user-attachments/assets/4ccbcdac-e1ed-46c1-9707-ca6cb0f664c4)
 ![validation](https://github.com/user-attachments/assets/41b49c8a-6497-4596-9a96-9bb0b50970a6)
