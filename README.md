@@ -14,7 +14,6 @@ https://github.com/user-attachments/assets/14f236d8-00d2-49b8-9c1d-d2b7608407ce
 
 ## Screenshots
 
-https://github.com/user-attachments/assets/018564bd-3bb9-479a-850a-062ca418c04c
 ![form](https://github.com/user-attachments/assets/3888d154-bc2e-465d-9546-79592d3fdd9d)
 ![movie](https://github.com/user-attachments/assets/78b145f5-5db5-465e-beef-6aa761f804dd)
 ![movie]![review](https://github.com/user-attachments/assets/d471fca5-6c8a-49cb-b1c8-bcfc59852abe)
